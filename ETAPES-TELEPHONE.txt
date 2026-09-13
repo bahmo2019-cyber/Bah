@@ -1,0 +1,10 @@
+LIONS IMMOBILIER — COMPILATION APK SANS ORDINATEUR
+
+1. Envoie le contenu de ce dossier dans ton dépôt GitHub.
+2. Ouvre l'onglet Actions.
+3. Lance "Build Lions Immobilier APK".
+4. Attends la fin du build.
+5. Dans le résultat, ouvre "Artifacts" puis "Lions-Immobilier-APK".
+6. Télécharge le fichier app-debug.apk et installe-le sur ton téléphone.
+
+Le workflow crée automatiquement le dossier Android avec Capacitor et compile l'APK dans GitHub Actions.
